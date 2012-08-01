@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4157
+
+vim plugin simplifies interaction with Mac OS X pastebuffer
+using pbcopy and pbpaste utilities by providing convenient commands for
+yanking into Mac OS X pastebuffer and pasting from it
+
+https://github.com/troydm/pb.vim
